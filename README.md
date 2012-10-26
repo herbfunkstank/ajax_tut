@@ -1,8 +1,9 @@
-This is an update the Django Tutorial from: http://lethain.com/intro-to-unintrusive-javascript-with-django/
-I didn't write the original tutorial.  The original was written by @lethain
-It was written 3 years ago. With the changes you will find here, you can get the 
-tutorial working with Django 1.4.2.
+This is an update the Django, jQuery, & Ajax tutorial series from: http://lethain.com/intro-to-unintrusive-javascript-with-django/
+I didn't write the original tutorial.  The original git can be found: https://github.com/lethain/notes-djapp-tutorial 
 
+The original is 4 year old.  I build the tutorial app with Django 1.4.2
+With the changes you will find here, you can get the tutorial 
+working with Django 1.4.2.
 
 ﻿Fixed an error with 'ajax_tut/ajax_tut/urls.py':
 Deleted ajax_tut from:  (r'^', include('ajax_tut.notes.urls')), 
